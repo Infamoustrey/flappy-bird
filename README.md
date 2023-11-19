@@ -1,6 +1,8 @@
 # Flappy Bird Clone
 
-Created with the power of AI
+Created with the power of AI.
+
+Play at https://infamoustrey.github.io/flappy-bird/
 
 # Design Document
 
